@@ -16,7 +16,7 @@ const About = () => {
     <>
       <h2 className="head-text">
         Yo se que un <span>Buen developer</span> <br /> significa un{' '}
-        <span>Buen negocio</span>{' '}
+        <span>Buen negocio</span>
       </h2>
       <div className="app__profiles">
         {abouts.map((about, idx) => (
